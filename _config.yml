@@ -299,3 +299,6 @@ collections:
     output: true
   ideas:
     output: true
+
+gems:
+  - jekyll-octicons
